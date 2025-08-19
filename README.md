@@ -1,0 +1,2 @@
+# profilarr
+Profilarr configs
